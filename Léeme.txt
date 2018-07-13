@@ -1,0 +1,17 @@
+Aplicación Web CRUD elaborada por Héctor Ceja Gómez.
+
+/*Esta aplicación fue elaborada mediante el servidor XAMPP y ejecutada dentro de su localhost*/
+/*Base de datos subida a PHPMyAdmin*/
+
+Recursos:
+-MySQL
+-PHP
+-Javascript
+-HTML5
+-AJAX
+-Apache
+
+
+Elementos faltantes: 
+-Panel de configuración no funciona, tasa, enganche y plaza por default. :(
+-Fórmulas aplicadas solo para el primer artículo seleccionado. :( 
